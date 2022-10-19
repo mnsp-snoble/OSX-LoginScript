@@ -1,5 +1,5 @@
 ﻿clear-host
-
+#added by snoble as colaberator#
 function dashedline() { #print dashed line
 Write-Host "----------------------------------------------------------------------------------------------------------"
 }
